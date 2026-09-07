@@ -1,4 +1,4 @@
-## Hi, Im Joey Olek
+## Hi, Im Joey Olek 🧚
 
 <!--
 **joeyolek/joeyolek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
